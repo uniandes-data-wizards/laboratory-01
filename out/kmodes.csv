@@ -1,0 +1,7 @@
+,Road_Type,Light_Conditions,Weather_Conditions,Urban_or_Rural_Area,Did_Police_Officer_Attend_Scene_of_Accident,Junction_Detail,Accident_Severity,Road_Surface_Condition,Cluster Labels,Segment
+First Cluster,Noche,Día laboral,Calzada,Oscuridad_Luces_Encendidas,"Bien, con vientos suaves",Urbano,Si,No_hay_cruce,Leve,Seca
+Second Cluster,Tarde,Día laboral,Calzada,Diurna,"Bien, con vientos suaves",Urbano,Si,T,Leve,Seca
+Third Cluster,Tarde,Fin de semana,Calzada,Diurna,"Bien, con vientos suaves",Urbano,No,No_hay_cruce,Leve,Seca
+Fourth Cluster,Mañana,Día laboral,Calzada,Diurna,"Bien, con vientos suaves",Urbano,No,No_hay_cruce,Leve,Seca
+Fifth Cluster,Tarde,Día laboral,Calzada,Diurna,"Bien, con vientos suaves",Rural,Si,No_hay_cruce,Serio,Seca
+Sixth Cluster,Tarde,Fin de semana,Calzada,Diurna,"Bien, con vientos suaves",Urbano,Si,No_hay_cruce,Leve,Seca
